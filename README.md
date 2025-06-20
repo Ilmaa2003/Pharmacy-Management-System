@@ -6,6 +6,12 @@
 
 The Pharmacy Management System automates daily pharmacy operations such as inventory management, sales, and billing. It improves operational efficiency, supports scalable data management, forecasts sales trends, and generates detailed reports to assist business decisions.
 
+![Pharmacy Management System Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Pharmacy-Management-System/main/Images/Screenshot%202025-06-20%20090734.png)
+
+![Pharmacy Management System Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Pharmacy-Management-System/main/Images/Screenshot%202025-06-20%20090818.png)
+
+![Pharmacy Management System Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Pharmacy-Management-System/main/Images/Screenshot%202025-06-20%20090840.png)
+
 ---
 
 ## Objectives
